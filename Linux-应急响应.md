@@ -124,6 +124,7 @@ kill -9 7224
 
 
 ### 2.4 服务
+
 ```bash
 chkconfig #查看开机启动项目
 chkconfig  --list #查看服务自启状态
@@ -133,6 +134,7 @@ systemctl list-unit-files |grep enabled #ubuntu，centos及使用 systemctl 控�
 
 
 ### 2.5 文件
+
 很多时候会遇到无法常看文件权限或是病毒在一直向某个文件写入程序，可尝试如下命令：
 
 lsattr 文件 查看权限
@@ -150,7 +152,9 @@ grep 命令
 diff 命令
 
 很多情况下，存在ps、netstat等一些常见命令被替换，可利用stat查看该状态，查看其修改时间
+
 `stat /bin/netstat`
+
 
 ![image](https://github.com/wpsec/Emergency-response-notes/blob/main/images/17.png)
 
@@ -160,7 +164,9 @@ diff 命令
 
 ## 三. 启动项与定时任务
 
+
 系统运行级别：
+
 
 ```bash
 l  0 所有进程将被终止，机器将有序的停止，关机时系统处于这个运行级别
@@ -178,13 +184,22 @@ l  5多用户模式，并且在系统启动后运行X-Window，给出一个图�
 l  6所有进程被终止，系统重新启动
 ```
 
+
 默认 级别 `/etc/inittab`
+
+
 ![image](https://github.com/wpsec/Emergency-response-notes/blob/main/images/18.png)
 
+
 ### 3.1 开机启动文件
+
+
 `/etc/rc.local`
+
 `/etc/rc.d/rc[0~6].d`
+
 ` /etc/rc.d/rc3.d/`
+
 
 
 
@@ -231,6 +246,7 @@ sed '/gcc.sh/d' /etc/crontab && chmod 0000 /etc/crontab && chattr +i /etc/cronta
 
 
 ### 3.3 日志
+
 系统常见的日志目录
 | 文件名  | 说明  |
 | --- | --- |
@@ -244,6 +260,8 @@ sed '/gcc.sh/d' /etc/crontab && chmod 0000 /etc/crontab && chattr +i /etc/cronta
 
 
 默认日志位置：`var/log`
+
+
 `/var/log/auth.log` 包含系统授权信息，包括用户登录和使用的权限机制等信息
 `/var/log/lastlog` 记录登录的用户，可以使用命令lastlog查看
 `/var/log/secure` 记录大多数应用输入的账号与密码，登录成功与否
@@ -266,6 +284,7 @@ grep "Failed password" /var/log/secure|perl -e 'while($_=<>){ /for(.*?) from/; p
 ```
 
 ##### 登录成功的IP有哪些：     
+
 ```bash
 grep "Accepted " /var/log/secure | awk '{print $11}' | sort | uniq -c | sort -nr | more  
 ```
@@ -281,6 +300,7 @@ grep "Accepted " /var/log/secure | awk '{print $1,$2,$3,$9,$11}'
 ##### 日志中的敏感特征
 
 文件内容中的恶意函数
+
 ```bash
 PHP：eval(、system(、assert(
 JSP：getRunTime(、 FileOutputStream(
@@ -289,6 +309,7 @@ ASP：eval(、execute(、 ExecuteGlobal（
 
 
 webshell特征
+
 ```bash
 Darkblade：goaction=login
 JspSpy：o=login
@@ -299,6 +320,7 @@ Other：cmd=
 
 
 linux日志分析工具
+
 [https://github.com/wpsec/GScan](https://github.com/wpsec/GScan)
 
 ### 3.4 自动化辅助工具
@@ -317,7 +339,6 @@ linux日志分析工具
 [https://edr.sangfor.com.cn/#/information/ransom_search](https://edr.sangfor.com.cn/#/information/ransom_search)
 
 360
-
 [https://lesuobingdu.360.cn/](https://lesuobingdu.360.cn/)
 
 奇安信
@@ -339,7 +360,6 @@ VenusEye
 [https://www.duba.net/dbt/wannacry.html](https://www.duba.net/dbt/wannacry.html)
 
 瑞星
-
 [http://it.rising.com.cn/fanglesuo/index.html](http://it.rising.com.cn/fanglesuo/index.html)
 
 Avast
