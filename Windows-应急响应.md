@@ -132,3 +132,12 @@ SchTasks /Delete /TN  任务计划名称
 C:\Users 目录下文件
 
 ## 七. 安防软件日志记录
+
+
+
+
+
+版权声明：本文为个人笔记，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
+
+本文链接:[https://github.com/wpsec/Emergency-response-notes](https://github.com/wpsec/Emergency-response-notes)
+
