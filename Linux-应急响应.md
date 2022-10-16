@@ -321,15 +321,19 @@ Other：cmd=
 
 linux日志分析工具
 
-[https://github.com/wpsec/GScan](https://github.com/wpsec/GScan)
+[https://github.com/grayddq/GScan](https://github.com/grayddq/GScan)
 
 ### 3.4 自动化辅助工具
 [https://github.com/grayddq/GScan](https://github.com/grayddq/GScan)
+
 [https://github.com/ppabc/security_check](https://github.com/ppabc/security_check)
+
 [https://github.com/T0xst/linux](https://github.com/T0xst/linux)
 
+[https://github.com/P4ck/Emergency](https://github.com/P4ck/Emergency)
 
-![image](https://github.com/wpsec/Emergency-response-notes/blob/main/images/22.png)
+[https://github.com/al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
+
 
 
 
