@@ -1,0 +1,31 @@
+﻿<!-- 图片资源列表 -->
+<skins>
+ <png name="icon_min" src="50006" subwidth="40"/>
+ <png name="icon_close" src="50007" subwidth="40"/>
+ <png name="ksafe_checkbox"    src="50008" subwidth="13" />
+ <png name="start"    src="50009" subwidth="190" />
+ <png name="Logo"    src="50010" subwidth="780"  />
+ <png name="LogoAnimation"    src="50011" subwidth="29" />
+ <png name="footerBtn"    src="50012" subwidth="74" />
+ <png name="addbtn"    src="50022" subwidth="70" />
+ <png name="bigBtn"    src="50015" subwidth="270" />
+ <png name="leftPoint" src="50013"/>
+ <png name="book" src="50014"/>
+ <png name="ksafe_scroll_bar"      src="50016" top="5" subwidth="12"/>
+ <png name="checkbox"    src="50018" subwidth="13" />
+ <png name="checkbox_check"    src="50019" subwidth="13" />
+ <png name="aboutlogo"    src="50020"  />
+ <png name="inputBox"    src="50021" subwidth="190" />
+ <png name="AtTool_shadow"    src="50025"  />
+ <png name="tipbg"    src="50026" margin_left="8" margin_right="8" />
+ 
+ 
+ <png name="nLogo"    src="50010" subwidth="780"  />
+ <png name="nstart"    src="50009" subwidth="190" />
+ <png name="nfooterBtn"  src="50012" subwidth="74" />
+ 
+ <!--  <png name="nLogo"    src="50027" subwidth="780"  />
+ <png name="nstart"    src="50028" subwidth="190" />
+ <png name="nstart"    src="50028" subwidth="190" />
+ <png name="nfooterBtn"   src="50029" subwidth="74" /> -->
+ </skins>

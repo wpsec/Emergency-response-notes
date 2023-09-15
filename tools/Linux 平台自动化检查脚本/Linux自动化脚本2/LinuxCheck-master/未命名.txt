@@ -1,4 +1,0 @@
-Debian：dpkg -i silversearcher-ag_2.2.0-1+b1_amd64.deb
-Centos：rpm -ivh the_silver_searcher-2.1.0-1.el7.x86_64.rpm
-
-./LinuxCheck.sh

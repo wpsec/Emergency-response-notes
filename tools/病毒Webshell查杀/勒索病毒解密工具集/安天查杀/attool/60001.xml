@@ -1,0 +1,34 @@
+﻿<!-- 样式列表 -->
+<style>
+  <class name="linkimage" cursor="hand"/>
+  <class name="253545" crbg="253545"/>
+  <class name="2C3D4F" crbg="2C3D4F"/>
+  <class name="2c3d4f" crbg="2c3d4f"/>
+  <class name="01A2D8" crbg="01A2D8"/>
+  <class name="202937" crbg="01A2D8"/>
+  <class name="line" crbg="253545"/>
+  <class name="cmn_tab_button" />
+  <class name="tabfont" font="0000" crtext="FFFF00" />
+  <class name="font20" font="0020" crttext="F2F2F2" />
+  <class name="underbox"  crbg="253545" /> 
+  <class name="footerdlgbtn" cursor="hand"/>
+  <class name="menuline" crbg="EE2C2C"/>
+  <class name="bkshawder" skin="bkshawder"/>
+  <class name="334962" crbg="334962"/>
+  <class name="3b556f" crbg="3b556f"/>
+  <class name="red" crbg="9c1111"/>
+  <class name="textbtn" crtext="D7D7D7" crhover="018ebd" cursor="hand" hoverfont="0002"/>
+  <class name="checktext" crtext="D7D7D7" crdisabled="8D96A0" />
+  <class name="footerBtn" skin="footerBtn" font="0000" crtext="E4E4E4"  cursor="hand"/>
+  <class name="addbtn" skin="addbtn" font="0200" crtext="E4E4E4" cursor="hand"/>
+  <class name="bigBtn" skin="bigBtn" font="0200" crtext="E4E4E4" cursor="hand"/>
+  <class name="start" skin="start" font="0200" crtext="E4E4E4" cursor="hand"/>
+  <class name="yahei" yhresizedisable="0"/>
+  <class name="richtext" font="0000" crtext="98aab7"/>
+  <class name="link"  crtext="018ebd" crhover="01AFE9" cursor="hand" font="0002"  />
+  <class name="hand" cursor="hand"/>
+  <class name="CenterText" textmode="5" gdiplus="1"  crtext="FFFFFF" font="0800" />
+</style>
+
+
+

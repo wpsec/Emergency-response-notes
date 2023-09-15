@@ -1,0 +1,1 @@
+https://www.nirsoft.net/utils/regscanner.html

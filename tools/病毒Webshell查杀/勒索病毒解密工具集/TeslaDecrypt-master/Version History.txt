@@ -1,0 +1,43 @@
+﻿TeslaDecrypter 1.0
+Andrea Allievi
+TALOS Group, Cisco Systems Inc
+Last revision: 05/30/2016
+
+VERSION HISTORY
+04/13/2015 - First release, everything
+04/17/2015 - Added the Anti-TeslaCrypt dropper code and resolved a bug with the "FileExists" routine
+04/20/2015 - Fixed some bugs that Xabier has signalled
+04/28/2015 - Fixed a bug in the filename parsing routine (white-spaces bug)
+		     Removed some wrong log messages
+05/29/2015 - Version 0.2
+			 Added support for 2 versions of TeslaCrypt dropper and 2 versions of AlphaCrypt
+			 Added "/forcekey" command line switch
+05/30/2016 - Version 1.0 - Everything
+		   - Added support for the Factorization (TeslaCrypt 2.x)
+		   - Added support for TeslaCrypt 3.x and 4.x
+		   - Added key verification algorithms (TeslaCrypt 2.x/3/4)
+		   - Modified command line arguments
+		   - Imported leaked TeslaCrypt 3.x/4 C2 private key 
+		   - Now the decrypter could deal with all TeslaCrypt version
+		   - Rewritten the decryption write algorithm (now it properly deals with big files and occupies less memory)
+06/08/2016 - Corrected the English grammar (thanks to Alain)
+
+
+COMMAND LINE USAGE
+/help - Show this help message
+/aeskey - Manual specify the AES master key for the decryption (32 bytes/64 digits)
+/privkey - Manually specify the EC victim's private key for decryption (32 bytes/64 digits)
+/keyfile - Specify the "key.dat" file used to recover the master key.
+/forcekey - Force the master key to be accepted even in the case that the verification goes wrong
+/file - Decrypt an encrypted file
+/dir - Decrypt all the TeslaCrypt files in the target directory and its subdirs
+/scanEntirePc - Decrypt the entire workstation files
+/KeepOriginal - Keep the original file(s) in the encryption process
+/deleteTeslaCrypt - Automatically kill and delete the TeslaCrypt dropper (if found active)
+/process-msieve - Process an MSIEVE log file and recover the AES encryption key
+
+
+IMPORTANT
+To correctly compile and run this code you should download and unpack the Precompiled "openssl" libary,
+available here: http://www.npcglib.org/~stathis/blog/precompiled-openssl     
+inside a folder called "openssl" under the root folder of the project.

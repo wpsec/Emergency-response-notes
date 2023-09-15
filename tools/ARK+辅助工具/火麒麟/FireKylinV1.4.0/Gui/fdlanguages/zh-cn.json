@@ -1,0 +1,144 @@
+{
+  "window-title-temporary-file": "临时文件",
+
+  "text-message-box-title-question": "请确认",
+  "text-message-box-title-information": "提示",
+  "text-message-box-title-warning": "警告",
+  "text-message-box-title-critical": "错误",
+
+  "file-save-overwrite":"是否覆盖已有文件?",
+  "file-save-fail-by-convertjson":"文件保存失败！因为特征库转json失败。",
+
+  "file-open-fail":"文件打开失败！",
+  "file-open-has-opened":"已经加载了一个文件，是否继续加载这个文件？",
+  "file-open-dialog-title":"打开特征库文件",
+  "file-open-dialog-tip":"特征库",
+
+  "file-parse-fail-cant-read":"特征库文件无法读取。",
+  "file-parse-fail-formate-error":"特征库文件格式校验失败。",
+  "file-parse-fail-version-error":"特征库文件版本不匹配。",
+  "file-parse-fail":"特征库文件解析失败。",
+
+  "menu-operation": "操作",
+  "menu-operation-open": "打开",
+  "menu-operation-save": "保存",
+  "menu-operation-saveto": "保存到",
+  "menu-setting": "设置",
+  "menu-setting-language": "语言",
+  "menu-help": "帮助",
+  "menu-help-reportissue": "问题反馈",
+  "menu-help-github": "Github",
+  "menu-help-about": "关于",
+
+  "main-tab-feature-library": "特征库",
+  "main-tab-matching": "检测",
+
+  "feature-search":"搜索",
+  "feature-search-txt-tip":"请输入",
+  "feature-search-btn":"搜索",
+
+  "feature-librarys":"库",
+  "feature-librarys-name":"名称",
+  "feature-librarys-describe":"描述",
+  "feature-librarys-author":"作者",
+
+  "feature-librarys-menu-addnew":"添加新的",
+  "feature-librarys-menu-delete":"删除",
+  "feature-librarys-menu-delete-tip":"请确认是否删除？",
+
+  "feature-info":"详情",
+  "feature-info-name":"名称",
+  "feature-info-author":"作者",
+  "feature-info-describe":"描述",
+  "feature-info-features":"特征",
+  "feature-info-features-key":"Key",
+  "feature-info-features-type":"类型",
+  "feature-info-features-content":"内容",
+  "feature-info-rule":"规则",
+
+  "feature-info-add-please-enter-name":"请输入[名称]。",
+  "feature-info-add-please-enter-auth":"请输入[作者]。",
+  "feature-info-add-please-enter-describe":"请输入[描述]。",
+  "feature-info-add-please-enter-feature":"请添加[特征]。",
+  "feature-info-add-please-enter-rule":"请添加[规则]。",
+
+  "feature-info-features-menu-add":"添加",
+  "feature-info-features-menu-edit":"编辑",
+  "feature-info-features-menu-del":"删除",
+  "feature-info-features-menu-del-tip":"请确认是否删除？",
+
+  "feature-info-rule-menu-addchild":"添加子项",
+  "feature-info-rule-menu-edit":"编辑",
+  "feature-info-rule-menu-del":"删除",
+  "feature-info-rule-menu-del-tip":"请确认是否删除？",
+
+  "feature-info-add-rule-error":"这个规则是错误的，请修复后再尝试。",
+  "feature-info-add-rule-root-error":"根节点只能使用$and或者$or。",
+  "feature-info-add-rule-childs-error":"这个规则子节点是空。",
+
+  "feature-info-btn-add":"添加",
+  "feature-info-btn-update":"修改",
+
+  "matching-input":"输入项",
+  "matching-input-text":"Text",
+  "matching-input-hex":"Hex",
+  "matching-input-files":"文件",
+  "matching-input-files-addfiles":"添加文件",
+  "matching-input-files-select-file":"选择文件",
+
+  "matching-files-path":"路径",
+  "matching-files-size":"大小",
+
+  "matching-files-menu-del":"删除",
+
+  "matching-config":"检测配置",
+  "matching-config-ge100mb-slice":"文件>100MB分片数",
+  "matching-config-ge1gb-slice":"文件>1GB分片数",
+  "matching-config-thread":"线程数",
+  "matching-btn":"检测",
+
+  "matching-please-enter":"请输入text或hex添加文件。",
+
+  "matching-result":"检测结果",
+  "matching-result-search-text":"请输入",
+  "matching-result-search-btn":"搜索",
+
+  "matching-result-table-source":"来源",
+  "matching-result-table-feature-name":"特征名称",
+  "matching-result-table-feature-describe":"特征描述",
+  "matching-result-table-feature-author":"特征作者",
+
+  "feature-info-window-title":"特征编辑器",
+  "feature-info-type":"类型",
+  "feature-info-type-hex":"Hex",
+  "feature-info-type-text":"Text",
+  "feature-info-key":"Key",
+  "feature-info-key-text":"可以使用:0-9a-zA-Z",
+  "feature-info-content":"内容",
+  "feature-info-content-text":"可以使用:0F 9? ?0 ?? [00-FF] [00-02,06-09] 或者 文本",
+  "feature-info-btn-save":"保存",
+  "feature-info-btn-cancel":"取消",
+
+  "feature-info-please-enter-key":"请输入[Key]。",
+  "feature-info-key-exists":"[Key]已存在。",
+  "feature-info-key-formate-fail":"[Key]格式校验失败。\n可以使用: 0-9a-zA-Z",
+  "feature-info-please-enter-content":"请输入[Content].",
+  "feature-info-content-formate-fail":"[Content]格式校验失败。\n可以使用: 0F 9? ?0 ?? [00-FF] [00-02,06-09]",
+
+  "feature-rule-window-title":"特征规则编辑器",
+  "feature-rule-info-type":"类型",
+  "feature-rule-info-key":"Key",
+  "feature-rule-info-save":"保存",
+  "feature-rule-info-cancel":"取消",
+  "feature-rule-please-enter-key":"请输入[Key]。",
+
+  "switch-language-window-title": "语言",
+  "switch-language-lable-language": "语言:",
+  "switch-language-lable-now-language": "当前语言:",
+  "switch-language-button-set-language": "设置语言",
+  "switch-language-message-no-changed": "设置的语言与当前语言一致未作出改变。",
+  "switch-language-message-no-language-items": "语言选项列表为空。",
+  "switch-language-message-update-language-tips": "修改语言将会重启应用程序。",
+
+  "about-window-title":"关于"
+}

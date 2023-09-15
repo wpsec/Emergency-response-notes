@@ -1,0 +1,78 @@
+﻿KASPERSKY LAB END USER LICENSE AGREEMENT
+
+IMPORTANT LEGAL NOTICE TO ALL USERS: CAREFULLY READ THE FOLLOWING LEGAL AGREEMENT BEFORE YOU START USING THE SOFTWARE.
+
+BY USING THE SOFTWARE YOU CONSENT TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT USE THIS SOFTWARE AND DELETE THE SOFTWARE.
+
+1. Definitions
+1.1. Software means software and related materials. 
+1.2. Rightholder (owner of all rights, whether exclusive or otherwise to the Software) means AO Kaspersky Lab, a company incorporated according to the laws of the Russian Federation.
+1.3. Computer(s) means hardware(s), including servers, personal computers, laptops, workstations, personal digital assistants, ‘smart phones’, hand-held devices, or other electronic devices for which the Software was designed where the Software will be installed and/or used.
+1.4. End User (You/Your) means individual(s) installing or using the Software on his or her own behalf or who is legally using a copy of the Software; or, if the Software is being downloaded or installed on behalf of an organization, such as an employer. “You” further means the organization for which the Software is downloaded or installed and it is represented hereby that such organization has authorized the person accepting this agreement to do so on its behalf. For purposes hereof the term “organization,” without limitation, includes any partnership, limited liability company, corporation, association, joint stock company, trust, joint venture, labor organization, unincorporated organization, or governmental authority.
+1.5. Update(s) means all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs etc.
+1.6. User Manual means user manual, administrator guide, reference book and related explanatory or other materials.
+1.7. Technical Support web-site: http://support.kaspersky.com 
+
+2. Grant of License
+2.1. The Rightholder hereby grants You a non-exclusive license to store, load, install, execute, and display (to “use”) the free of charge Software within the scope of functionality set forth in the User Manual or the Technical Support web-site, according to the terms and conditions of this Agreement (the “License”) and you accept this License.
+2.2. You have the right to make a copy of the Software solely for back-up purposes and only to replace the legally owned copy if such copy is lost, destroyed or becomes unusable. This back-up copy cannot be used for other purposes and must be destroyed when you lose the right to use the Software or when Your license expires or is terminated for any other reason according to the legislation in force in the country of your principal residence or in the country where You are using the Software.
+
+3. Term and termination
+3.1. The Software can be used perpetually.
+3.2. Without prejudice to any other remedy in law or in equity that the Rightholder may have, in the event of any breach by You of any of the terms and conditions of this Agreement, the Rightholder shall at any time without notice to You be entitled to terminate this License.
+
+4. Technical Support
+4.1. No Technical Support is provided. 
+
+5. Limitations
+5.1. You shall not emulate, clone, rent, lend, lease, sell, modify, decompile, or reverse engineer the Software or disassemble or create derivative works based on the Software or any portion thereof with the sole exception of a non-waivable right granted to You by applicable legislation, and you shall not otherwise reduce any part of the Software to human readable form or transfer the licensed Software, or any subset of the licensed Software, nor permit any third party to do so, except to the extent the foregoing restriction is expressly prohibited by applicable law. Neither Software’s binary code nor source code may be used or reverse engineered to re-create the program algorithm, which is proprietary. All rights not expressly granted herein are reserved by Rightholder and/or its suppliers, as applicable. Any such unauthorized use of the Software shall result in immediate and automatic termination of this Agreement and the License granted hereunder and may result in criminal and/or civil prosecution against You.
+5.2. You shall not transfer the rights to use the Software to any third party except.
+5.3. You shall not rent, lease or lend the Software to any third party.
+5.4. You shall not use the Software in the creation of data or software used for detection, blocking or treating threats described in the User Manual.
+
+6. Limited Warranty and Disclaimer
+6.1. The Rightholder makes no guarantees that the Software is functionally operative.
+6.2. THE SOFTWARE IS PROVIDED "AS IS" AND THE RIGHTHOLDER MAKES NO REPRESENTATION AND GIVES NO WARRANTY AS TO ITS USE OR PERFORMANCE. EXCEPT FOR ANY WARRANTY, CONDITION, REPRESENTATION OR TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW THE RIGHTHOLDER AND ITS PARTNERS MAKE NO WARRANTY, CONDITION, REPRESENTATION, OR TERM (EXPRESSED OR IMPLIED, WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING, WITHOUT LIMITATION, NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, SATISFACTORY QUALITY, INTEGRATION, OR APPLICABILITY FOR A PARTICULAR PURPOSE. YOU ASSUME ALL FAULTS, AND THE ENTIRE RISK AS TO PERFORMANCE AND RESPONSIBILITY FOR SELECTING THE SOFTWARE, AND FOR THE INSTALLATION OF, USE OF, AND RESULTS OBTAINED FROM THE SOFTWARE. WITHOUT LIMITING THE FOREGOING PROVISIONS, THE RIGHTHOLDER MAKES NO REPRESENTATION AND GIVES NO WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE OR FREE FROM INTERRUPTIONS OR OTHER FAILURES OR THAT THE SOFTWARE WILL MEET ANY OR ALL YOUR REQUIREMENTS WHETHER OR NOT DISCLOSED TO THE RIGHTHOLDER.
+
+7. Exclusion and Limitation of Liability
+7.1. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE RIGHTHOLDER OR ITS PARTNERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR LOSS OF PRIVACY, FOR CORRUPTION, DAMAGE AND LOSS OF DATA OR PROGRAMS, FOR FAILURE TO MEET ANY DUTY INCLUDING ANY STATUTORY DUTY, DUTY OF GOOD FAITH OR DUTY OF REASONABLE CARE, FOR NEGLIGENCE, FOR ECONOMIC LOSS, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATON, SOFTWARE AND RELATED CONTENT THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT, OR ARISING OUT OF ANY BREACH OF CONTRACT OR ANY TORT (INCLUDING NEGLIGENCE, MISREPRESENTATION, ANY STRICT LIABILITY OBLIGATION OR DUTY), OR ANY BREACH OF STATUTORY DUTY, OR ANY BREACH OF WARRANTY OF THE RIGHTHOLDER OR ANY OF ITS PARTNERS, EVEN IF THE RIGHTHOLDER OR ANY PARTNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+7.2. IN THE EVENT ANY DISCLAIMER, EXCLUSION OR LIMITATION IN THIS AGREEMENT CANNOT BE EXLUDED OR LIMITED ACCORDING TO APPLICABLE LAW THEN ONLY SUCH DISCLAIMER, EXCLUSION OR LIMITATION SHALL NOT APPLY TO YOU AND YOU CONTINUE TO BE BOUND BY ALL THE REMAINING DISCLAIMERS, EXCLUSIONS AND LIMITATIONS.
+
+8. GNU and Other Third-Party Licenses
+8.1. The Software may include some software programs that are licensed (or sublicensed) to the user under the GNU General Public License (GPL) or other similar free software licenses which, among other rights, permit the user to copy, modify and redistribute certain programs, or portions thereof, and have access to the source code "Open-Source Software"). If such licenses require that for any software, which is distributed to someone in an executable binary format, that the source code also be made available to those users, then the source code should be made available by sending the request to source@kaspersky.com or the source code is supplied with the Software. If any Open-Source Software licenses require that the Rightholder provide rights to use, copy or modify an Open-Source Software program that are broader than the rights granted in this Agreement, then such rights shall take precedence over the rights and restrictions herein.
+
+9. Intellectual Property Ownership
+9.1. You agree that the Software and the authorship, systems, ideas, methods of operation, documentation and other information contained in the Software, are proprietary intellectual property and/or the valuable trade secrets of the Rightholder or its partners and that the Rightholder and its partners, as applicable, are protected by civil and criminal law, and by the law of copyright, trade secret, trademark and patent of the Russian Federation, European Union and the United States of America, as well as other countries and international treaties. This Agreement does not grant to You any rights to the intellectual property including any trademarks or service marks of the Rightholder and/or its partners (“Trademarks”). You may use the Trademarks only insofar as to identify printed output produced by the Software in accordance with accepted trademark practice, including identification of the Trademark owner’s name. Such use of any Trademark does not give you any rights of ownership in that Trademark. The Rightholder and/or its partners own and retain all right, title, and interest in and to the Software, including without limitation any error corrections, enhancements, Updates or other modifications to the Software, whether made by the Rightholder or any third party, and all copyrights, patents, trade secret rights, trademarks, and other intellectual property rights therein. Your possession, installation or use of the Software does not transfer to you any title to the intellectual property in the Software, and you will not acquire any rights to the Software except as expressly set forth in this Agreement. All copies of the Software made hereunder must contain the same proprietary notices that appear on and in the Software. Except as stated herein, this Agreement does not grant you any intellectual property rights in the Software and you acknowledge that the License granted under this Agreement only provides you with a right of limited use under the terms and conditions of this Agreement. Rightholder reserves all rights not expressly granted to you in this Agreement.
+9.2. You acknowledge that the source code is proprietary to the Rightholder and constitutes trade secrets of the Rightholder. You agree not to modify, adapt, translate, reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software in any way.
+9.3. You agree not to modify or alter the Software in any way. You may not remove or alter any copyright notices or other proprietary notices on any copies of the Software.
+
+10. Governing Law
+10.1. Except as provided in Clauses 10.2 and 10.3 below, this Agreement shall be governed by and construed in accordance the laws specified below for the country or territory in which you obtained the Software, without reference to or application of conflicts of laws
+principles:
+a. Russia. If you obtained the Software in Russia, the laws of the Russian Federation.
+b. United States, Puerto Rico, American Samoa, Guam, and U.S. Virginia Islands. If you obtained the Software in the United States, Puerto Rico, 
+American Samoa, Guam or the U.S. Virgin Islands, the laws of the State of Massachusetts, USA, provided, however, that the laws of the U.S. state where you live will govern claims under state consumer protection, unfair competition, or similar laws. To the fullest extent permitted by law, the Rightholder and you expressly agree hereby to waive any right to a trial by jury.
+c. Canada. If you obtained the Software in Canada, the laws of the Province of Ontario.
+d. Mexico. If you obtained the Software in Mexico, the federal laws of the Republic of Mexico.
+e. European Union (EU). If you obtained the Software in a member country of the EU, the laws of England.
+f. Australia. If you obtained the Software in Australia, the laws of the State or Territory in which you obtained the license.
+g. Hong Kong Special Administration Region (SAR) and Macau SAR. If you obtained the Software in Hong Kong SAR or Macau SAR, the laws
+of Hong Kong SAR.
+h. Taiwan. If you obtained the Software in Taiwan, the laws of Taiwan.
+i. Japan. If you obtained the Software in Japan, the laws of Japan.
+j. Any Other Country or Territory. If you obtained the Software in any other country, the substantive laws of the country where the purchase took place would be in effect.
+10.2. Notwithstanding the foregoing, if the mandatory laws or public policy of any country or territory in which this Agreement is enforced or construed prohibit the application of the law specified herein, then the laws of such country or territory shall instead apply to the extent required by such mandatory laws or public policy. Similarly, if you are an individual consumer, the provisions of Clause 10.1 shall not affect any mandatory right you may have to take action in your country of residence under the laws of that country.
+10.3. This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.
+10.4. The End User is responsible for contacting only the Right Holder or their partners directly if having any problems with the product.
+11. Rightholder Contact Information
+
+Should you have any questions concerning this Agreement, or if you desire to contact the Rightholder for any reason, please contact our Customer Service Department at:
+
+AO Kaspersky Lab, Olympia Park Business Center, Bldg. 3, 39A, Leningradskoe Shosse
+Moscow, 125212
+Russian Federation
+E-mail: info@kaspersky.com
+Web site: www.kaspersky.com
+
+© 2013 AO Kaspersky Lab. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

@@ -1,0 +1,17 @@
+﻿<layer title="导出日志" width="400" height="270"  appwin="1" >
+<header class="334962" width="full" height="40">
+<text  crtext="d7d7d7" font="0000" pos="16,14">%str126%</text>	
+	<imgbtn id="7001" pos="360,0,400,40" class="hand" skin="icon_close" tip="关闭"/>
+</header>   
+    <body width="full" 			height="230" class="3b556f">
+	<hr     pos="0,0,-0,0" 		class="line"/>
+	<imgbtn id="7003" pos="65,45" 	class="hand" crtext="8d96a3"	skin="inputBox"  caption="填加导出的位置" Headacceptlbtndownmsg="1" />
+	<!-- <text   id="8001" pos="72,60,248,72" 	crtext="8d96a3" font="0000" >%str127%</text> -->
+	<imgbtn pos="265,45" 		id="7010"  class="addbtn" skin="addbtn" Headacceptlbtndownmsg="1" show="1" caption="添加" />
+	<!-- <text id="8003" pos="286,57" font="0200" crtext="E4E4E4">添加</text> -->
+	<check  pos="64,106" 	class="hand"	name="checkAll" id="7004" skin="checkbox" skin_check="checkbox_check" />.
+	<text   pos="85,106" 		crtext="f2f2f2" font="0000" >%str129%</text>
+	<imgbtn pos="65,138" 		id="7011"  class="bigBtn" skin="bigBtn"Headacceptlbtndownms="1"  caption="导出" show="1"/>
+	<!-- <text id="8002" pos="186,150" font="0200" crtext="E4E4E4">导出</text> -->
+    </body>
+</layer>

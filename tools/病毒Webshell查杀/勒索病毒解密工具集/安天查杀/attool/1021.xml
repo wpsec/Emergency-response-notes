@@ -1,0 +1,65 @@
+﻿<layer title="恶意代码专杀工具" width="780" height="530" appwin="1" >
+<header class="334962" width="full" height="40">
+   <text name="title" crtext="D7D7D7" font="0000" pos="16,14" id="8015" >%str100%</text>
+	<imgbtn id="7001" pos="700,0,740,40"  class="hand" skin="icon_min" tip="最小化"/>
+	<imgbtn id="7002" pos="740,0,780,40" class="hand" skin="icon_close" tip="关闭"/>
+    </header>   
+<body width="full" height="440">
+<dlg name="FirstPage" id="9003" pos="0,0,780,440" class="334962">
+<img id="8001" skin="Logo" pos="0,0" sub="0" />
+<text  id="8002" pos="0,41,-0,62" class="CenterText" >%str101%</text>	
+<img pos="25,149" skin="leftPoint"/>
+<text  id="8016" crtext="FFFFFF" font="0000" pos="52,150" >%str102%</text>	
+<img pos="25,186" skin="leftPoint"/>
+<text id="8017"  crtext="FFFFFF" font="0000" pos="52,187">%str103%</text>	
+<richtext pos="52,215,752,309" class="richtext" id="8014">
+		<o offset="18"/>
+		<c color="98AAB7"></c>
+</richtext>
+<link id="7007" class="link" pos="52,320" href="http://www.antiy.com/response/wannacry.html">%str105%</link>
+<!-- <img pos="471,150" skin="book"/> -->
+<imgbtn id="7003" skin="start" pos="295,358" class="start" caption="开始排查"></imgbtn>
+
+</dlg>
+<dlg name="SecondPage" id="9004" pos="0,0,-0,-0" show="0">
+		<dlg pos="0,0,-0,200" class="3b556f">
+		<img id="8011" skin="Logo" pos="0,0" sub="0" /> 
+		<text id="8012" pos="0,41,780,62" class="CenterText" >%str107%</text>	
+		<img id="8003" skin="LogoAnimation" pos="705,48" sub="0"/>
+		<text id="8004" crtext="FFFFFF" font="0000" pos="25,126,660,143"></text>	
+		<text id="8010" crtext="1a8cb5" font="0000" pos="707,126,780,143"></text>
+		<hr pos="0,162,-0,162" class="line"/>
+		<dlg pos="0,163,780,199" class="334962">
+		<text crtext="798695" font="0000" pos="25,13">%str109%</text>
+		</dlg>
+		<hr pos="0,199,-0,199" class="line"/>
+		</dlg>
+		<dlg id="9001" pos="1,200,780,440" class="334962">
+			<realwnd id="9002" ctrlid="9002" crbg="334962" pos="0,1,-0,-1"/>
+		</dlg>
+</dlg>		
+
+</body>
+<footer class="334962" width="full" height="50" >
+<hr pos="0,0,-0,0" class="line"/>
+<dlg name="page1" id="9005" show="1" pos="0,0,-0,-0">
+<!-- <text id="8005"  font="0000" pos="26,19" class="textbtn">%str110%</text> -->
+<!-- <text id="8006" crtext="D7D7D7" font="0000" pos="84,20">%str111%</text> -->
+<text id="8007"  font="0000" pos="733,19" class="textbtn">%str112%</text>
+<text font="0000" pos="640,19" crtext="D7D7D7">产品版本：v1.4</text>
+</dlg>
+<dlg name="page2" id="9006" show="0" pos="0,0,-0,-0">
+<check name="checkAll" id="7004" class="hand" skin="checkbox" skin_check="checkbox_check" pos="24,19"/>
+<text id="8008"  font="0000" pos="48,19" class="checktext">%str113%</text>
+<imgbtn id="7005" pos="584,13" class="footerBtn" skin="footerBtn" caption="暂停" />
+<imgbtn id="7006" pos="680,13" class="footerBtn" skin="footerBtn" caption="取消"  />
+
+<imgbtn id="7008" pos="488,13" class="footerBtn" skin="footerBtn" show="0" caption="上报文件" />
+<imgbtn id="7009" pos="584,13" class="footerBtn" skin="footerBtn" show="0" caption="导出日志"  />
+<imgbtn id="7011" pos="584,13" class="footerBtn" skin="footerBtn" show="0" caption="威胁清除"  />
+<imgbtn id="7010" pos="680,13" class="footerBtn" skin="footerBtn" show="0" caption="完成" />
+
+</dlg>
+
+</footer>
+</layer>

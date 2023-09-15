@@ -1,0 +1,144 @@
+{
+  "window-title-temporary-file": "Temporary file",
+  
+  "text-message-box-title-question": "Confirm",
+  "text-message-box-title-information": "Tips",
+  "text-message-box-title-warning": "Warning",
+  "text-message-box-title-critical": "Critical",
+
+  "file-save-overwrite":"Whether to overwrite this file?",
+  "file-save-fail-by-convertjson":"Save fail,Feature library convert to json fail!.",
+  
+  "file-open-fail":"File Open fail!",
+  "file-open-has-opened":"A file has been opened, do you want to continue?",
+  "file-open-dialog-title":"Open Feature Library File",
+  "file-open-dialog-tip":"Feature Library",
+
+  "file-parse-fail-cant-read":"Feature library file read failed.",
+  "file-parse-fail-formate-error":"Feature library file format verification failed.",
+  "file-parse-fail-version-error":"Feature library file version verification failed.",
+  "file-parse-fail":"Feature library parse failed.",
+
+  "menu-operation": "Operation",
+  "menu-operation-open": "Open",
+  "menu-operation-save": "Save",
+  "menu-operation-saveto": "Save To",
+  "menu-setting": "Setting",
+  "menu-setting-language": "Language",
+  "menu-help": "Help",
+  "menu-help-reportissue": "ReportIssue",
+  "menu-help-github": "Github",
+  "menu-help-about": "About",
+
+  "main-tab-feature-library": "Feature Library",
+  "main-tab-matching": "Matching",
+
+  "feature-search":"Search",
+  "feature-search-txt-tip":"Please enter",
+  "feature-search-btn":"Search",
+
+  "feature-librarys":"Librarays",
+  "feature-librarys-name":"Name",
+  "feature-librarys-describe":"Describe",
+  "feature-librarys-author":"Author",
+
+  "feature-librarys-menu-addnew":"Add New",
+  "feature-librarys-menu-delete":"Delete",
+  "feature-librarys-menu-delete-tip":"Please confirm to delete?",
+
+  "feature-info":"Info",
+  "feature-info-name":"Name",
+  "feature-info-author":"Author",
+  "feature-info-describe":"Describe",
+  "feature-info-features":"Features",
+  "feature-info-features-key":"Key",
+  "feature-info-features-type":"Type",
+  "feature-info-features-content":"Content",
+  "feature-info-rule":"Rule",
+
+  "feature-info-add-please-enter-name":"Please enter [Name].",
+  "feature-info-add-please-enter-auth":"Please enter [Auth].",
+  "feature-info-add-please-enter-describe":"Please enter [Describe].",
+  "feature-info-add-please-enter-feature":"Please add [Feature].",
+  "feature-info-add-please-enter-rule":"Please add [Rule].",
+
+  "feature-info-features-menu-add":"Add",
+  "feature-info-features-menu-edit":"Edit",
+  "feature-info-features-menu-del":"Delete",
+  "feature-info-features-menu-del-tip":"Please confirm to delete?",
+
+  "feature-info-rule-menu-addchild":"Add Child",
+  "feature-info-rule-menu-edit":"Edit",
+  "feature-info-rule-menu-del":"Delete",
+  "feature-info-rule-menu-del-tip":"Please confirm to delete?",
+
+  "feature-info-add-rule-error":"This rule is wrong, please fix it and try again.",
+  "feature-info-add-rule-root-error":"The root rule can only be $and or $or.",
+  "feature-info-add-rule-childs-error":"The rule childs is empty.",
+
+  "feature-info-btn-add":"Add",
+  "feature-info-btn-update":"Update",
+
+  "matching-input":"Input",
+  "matching-input-text":"Text",
+  "matching-input-hex":"Hex",
+  "matching-input-files":"Files",
+  "matching-input-files-addfiles":"Add Files",
+  "matching-input-files-select-file":"Select Files",
+
+  "matching-files-tble-path":"Path",
+  "matching-files-tble-size":"Size",
+
+  "matching-files-menu-del":"Delete",
+
+  "matching-config":"Config",
+  "matching-config-ge100mb-slice":"File>100MB Slice",
+  "matching-config-ge1gb-slice":"File>1GB Slice",
+  "matching-config-thread":"Thread",
+  "matching-btn":"Match",
+
+  "matching-please-enter":"Please enter text or hex or add a file.",
+
+  "matching-result":"Result",
+  "matching-result-search-text":"Please enter",
+  "matching-result-search-btn":"Search",
+  
+  "matching-result-table-source":"Source",
+  "matching-result-table-feature-name":"Feature Name",
+  "matching-result-table-feature-describe":"Feature Describe",
+  "matching-result-table-feature-author":"Feature Author",
+
+  "feature-info-window-title":"Feature Editor",
+  "feature-info-type":"Type",
+  "feature-info-type-hex":"Hex",
+  "feature-info-type-text":"Text",
+  "feature-info-key":"Key",
+  "feature-info-key-text":"Can use:0-9a-zA-Z",
+  "feature-info-content":"Content",
+  "feature-info-content-text":"Can use:0F 9? ?0 ?? [00-FF] [00-02,06-09] or text",
+  "feature-info-btn-save":"Save",
+  "feature-info-btn-cancel":"Cancel",
+
+  "feature-info-please-enter-key":"Please enter [Key].",
+  "feature-info-key-exists":"[Key] is exists.",
+  "feature-info-key-formate-fail":"[Key] format verification failed.\nYou can enter: 0-9a-zA-Z",
+  "feature-info-please-enter-content":"Please enter [Content].",
+  "feature-info-content-formate-fail":"[Content] format verification failed.\nYou can enter: 0F 9? ?0 ?? [00-FF] [00-02,06-09]",
+
+  "feature-rule-window-title":"Feature Rule Editor",
+  "feature-rule-info-type":"Type",
+  "feature-rule-info-key":"Key",
+  "feature-rule-info-save":"Save",
+  "feature-rule-info-cancel":"Cancel",
+  "feature-rule-please-enter-key":"Please enter [Key].",
+
+  "switch-language-window-title": "Language",
+  "switch-language-lable-language": "Language:",
+  "switch-language-lable-now-language": "NowLanguage:",
+  "switch-language-button-set-language": "SetLanguage",
+  "switch-language-message-no-changed": "The set language has not changed from the current language.",
+  "switch-language-message-no-language-items": "The list of language options is empty.",
+  "switch-language-message-update-language-tips": "Changing the language will restart the application.",
+
+  "about-window-title":"About"
+}
