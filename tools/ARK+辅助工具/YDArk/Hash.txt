@@ -1,0 +1,557 @@
+File: YDArk.exe
+Size: 10396672 bytes
+File Version: 1.0.0.5
+Modified: 2019年10月8日, 10:37:10
+MD5: 26BB2F5E630E21E79412369BA2FBD64B
+SHA1: 3245C4514AACC333C951407F42AC68EF8F8706C1
+CRC32: 758263F5
+
+File: YDArkDrv.sys
+Size: 4642816 bytes
+File Version: 1.0.0.5
+Modified: 2019年10月8日, 10:38:48
+MD5: 2B99F97A6DAAC264B0AD9CCA5C8B2911
+SHA1: 850C0C55D55245588662AF9474BBF0636E97BE06
+CRC32: D7C46558
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10420736 bytes
+File Version: 1.0.0.6
+Modified: 2019年10月8日, 16:40:48
+MD5: C3B2A6D7801C4969EEC070121879B8C2
+SHA1: 234574E5226F358F480A5CD095407EB506709BCC
+CRC32: 7D5EBA41
+
+File: YDArkDrv.sys
+Size: 4716032 bytes
+File Version: 1.0.0.6
+Modified: 2019年10月8日, 16:41:38
+MD5: BA97AD261F74892A2D0A9FF33C5572F5
+SHA1: 05505E3B8F72389B330F5BFA01F020662A24A507
+CRC32: D3401906
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10419200 bytes
+File Version: 1.0.0.7
+Modified: 2019年10月14日, 13:36:24
+MD5: 04D5C0C3D271AEBBF0D25A9419933972
+SHA1: 4B8106C3F08C03E68CDB59B5A4F80046526A56EC
+CRC32: AD05F659
+
+File: YDArkDrv.sys
+Size: 4519936 bytes
+File Version: 1.0.0.7
+Modified: 2019年10月14日, 11:28:08
+MD5: 0DCD6A2E9AFC16A415532EF454C674CE
+SHA1: 4BEA0243947BEDF58F55B8BC94FFB24B8524FA38
+CRC32: 4BDF2EE2
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10353152 bytes
+File Version: 1.0.0.8
+Modified: 2019年10月14日, 20:49:56
+MD5: C1DC70EB87359F942FAAFAE384B06801
+SHA1: 0BC5F570E492101AEC3127347D8EAF81BDAA1BE1
+CRC32: 1E90C5A0
+
+File: YDArkDrv.sys
+Size: 4472832 bytes
+File Version: 1.0.0.8
+Modified: 2019年10月14日, 20:31:32
+MD5: 29B9A86912508F4DCB58E6DAE65EF4EE
+SHA1: 2022F97D40783DD7375047B83DF767B6BBA07F85
+CRC32: D2BBC5FD
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10496512 bytes
+File Version: 1.0.0.9
+Modified: 2019年10月17日, 13:48:46
+MD5: 8F8766B4FCF488644FD462647B34B453
+SHA1: 54794753F62D821F743E2B448D6A736E3ABE4D9B
+CRC32: B764E1ED
+
+File: YDArkDrv.sys
+Size: 4430848 bytes
+File Version: 1.0.0.9
+Modified: 2019年10月17日, 13:47:46
+MD5: C0D511FA3F98ECE0DE7B7E40568BFB0A
+SHA1: F6888506DAE854EE9B653D6868D4A784284E78F1
+CRC32: C618B639
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10541056 bytes
+File Version: 1.0.0.10
+Modified: 2019年10月21日, 12:56:22
+MD5: 62069718F9D4E54FEC4B5E75C629DF13
+SHA1: FE452485483FDA8D690C7FB343713A42E160EA0E
+CRC32: EE0D1BD4
+
+File: YDArkDrv.sys
+Size: 4314624 bytes
+File Version: 1.0.0.10
+Modified: 2019年10月21日, 12:56:12
+MD5: A329BF76132CE81D59DF40B9400B1C67
+SHA1: 9124328BE4E980F3919A1E5F300F0ED067D4C4C1
+CRC32: FE0B9777
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10477568 bytes
+File Version: 1.0.0.11
+Modified: 2019年11月3日, 11:51:36
+MD5: 5D3A58BA9853615358A22815F795F6AC
+SHA1: 5811A79E9CB014908B520C39C0FD874BED488CC1
+CRC32: E9012D90
+
+File: YDArkDrv.sys
+Size: 4600832 bytes
+File Version: 1.0.0.11
+Modified: 2019年11月3日, 11:51:10
+MD5: 1A62155235109AF862EDE784EE21F9DB
+SHA1: EB348A24568B19C353D5690CEF72371F3A604876
+CRC32: 59E58A6C
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 8854016 bytes
+File Version: 1.0.0.12
+Modified: 2019年11月19日, 18:46:20
+MD5: 589154ABA8B0FA99DD8B77FD67F01EF5
+SHA1: 56AE984A0ADA4E938278D7B675AAB9A1DEEE6AD2
+CRC32: 8DC9FAD0
+
+File: YDArkDrv.sys
+Size: 4653056 bytes
+File Version: 1.0.0.12
+Modified: 2019年11月19日, 18:44:48
+MD5: 92D5F18BF57756F5EE68BC40FE5642F1
+SHA1: 2F8525D1CF7869032041E4376EF5FE85AC2F9D34
+CRC32: EA9AF940
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10852352 bytes
+File Version: 1.0.0.13
+Modified: 2019年11月29日, 19:34:44
+MD5: 4FF5707B10EAD09AD6B515A328128CE4
+SHA1: C927CF6BB0540240692589A4A608D7B0F406A5D2
+CRC32: 73EF41B4
+
+File: YDArkDrv.sys
+Size: 4613120 bytes
+File Version: 1.0.0.13
+Modified: 2019年11月29日, 19:34:30
+MD5: F0E3F07186D698E411AE65C1C1DA7E80
+SHA1: 48583A403FB9A8E5F28CADDB4B3564ABA5F82A24
+CRC32: CA66149C
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10791424 bytes
+File Version: 1.0.0.14
+Modified: 2019年12月6日, 17:06:14
+MD5: 32B859F4ACED69AEA5A015A7DD0139CD
+SHA1: 8C3E855AAABC7E0DD0E9582933AB530C227565DD
+CRC32: 2E035474
+
+File: YDArkDrv.sys
+Size: 4637184 bytes
+File Version: 1.0.0.14
+Modified: 2019年12月6日, 17:05:48
+MD5: 9B50DE3F53C08C05304D04EEC0A79C5D
+SHA1: B9BD41EC5CBF515C19BA1FF6CFA1CB359A522AC2
+CRC32: E2C48AA4
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10879488 bytes
+File Version: 1.0.0.15
+Modified: 2019年12月13日, 10:13:18
+MD5: 1B49116A4051A4690F71889B8C4151C3
+SHA1: 5931A52601A2CB662A5318B7DE75712C9334FFAB
+CRC32: AABB5056
+
+File: YDArkDrv.sys
+Size: 4691456 bytes
+File Version: 1.0.0.15
+Modified: 2019年12月13日, 10:13:00
+MD5: 6956D66B811086D8C6871B386036D3C3
+SHA1: 3FD1FE59A8E92D8B23638A3CB025672100AF0597
+CRC32: FD92DF1D
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10899456 bytes
+File Version: 1.0.0.16
+Modified: 2019年12月16日, 15:59:02
+MD5: 0562C6EA4B648AB14A9C537804CF1E1A
+SHA1: DD7452FAE0DEC6F8B6C2C8D8DCE5CA4F1AE976FA
+CRC32: 31F7872D
+
+File: YDArkDrv.sys
+Size: 4804096 bytes
+File Version: 1.0.0.16
+Modified: 2019年12月16日, 15:58:38
+MD5: 3AF253226224AFE5E097E6354BF024D8
+SHA1: C03B644E6768E6754CAFD8C9657877FDD529CCAD
+CRC32: DDE2776D
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11065344 bytes
+File Version: 1.0.0.17
+Modified: 2019年12月19日, 16:58:32
+MD5: 4A4166A8143EAAD12746EDDB4CFA768C
+SHA1: CE8D90D53A50A712D9E7DA79C991A3CFF1110551
+CRC32: 99184B5E
+
+File: YDArkDrv.sys
+Size: 4709888 bytes
+File Version: 1.0.0.17
+Modified: 2019年12月19日, 16:58:24
+MD5: 66A0F4C3B983A4F96E340DEC908C133F
+SHA1: 45162B10345985ADEA98308ECA17040BF08A3E74
+CRC32: 58745758
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11044864 bytes
+File Version: 1.0.0.18
+Modified: 2019年12月29日, 16:31:20
+MD5: 9BD4A34D4DBB91803D0C230201B00444
+SHA1: 9A46BFDA00778BBB4BFB40205EDF104A974D2EAD
+CRC32: 6FC0EEC6
+
+File: YDArkDrv.sys
+Size: 4726784 bytes
+File Version: 1.0.0.18
+Modified: 2019年12月29日, 16:30:50
+MD5: 681F866CB06B5DC74B9385E216C690DE
+SHA1: 2936BDC78F97615D0405E4A9924599A55E0E34F1
+CRC32: E136D3B9
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11695104 bytes
+File Version: 1.0.1.1
+Modified: 2020年1月12日, 14:10:22
+MD5: 60A9B36C4B043E3FE69A84C57E7F1D2D
+SHA1: 1F9C068C5037FA67A09A73B28BC9A377A73A3AEB
+CRC32: 873C6C5D
+
+File: YDArkDrv.sys
+Size: 4852224 bytes
+File Version: 1.0.1.1
+Modified: 2020年1月12日, 14:09:44
+MD5: D2F26AE0FDC91F3C385AD9BEC57AC588
+SHA1: AEBFF99707AF5D9108117E7544DFD5FC6ACCC11A
+CRC32: CA704669
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11727360 bytes
+File Version: 1.0.1.2
+Modified: 2020年2月14日, 16:57:18
+MD5: 71B4FA31D9E7DAEB5B2C0CD30DEFCD79
+SHA1: D3DC4D5F8C209A37E680C21ACDD72DE025AC9FE7
+CRC32: 1488FE31
+
+File: YDArkDrv.sys
+Size: 4999680 bytes
+File Version: 1.0.1.2
+Modified: 2020年2月14日, 16:57:34
+MD5: 1425EA003761BD3C19CA77AC1E008E05
+SHA1: 15ED67D06EE7535012DC719CE163A466700C58D3
+CRC32: C76AC879
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11703296 bytes
+File Version: 1.0.1.3
+Modified: 2020年3月2日, 14:07:46
+MD5: 8EB919FB2BAF440412348BF66D3A40C7
+SHA1: 7F1627A3E9B896F7B6AD7D05D1A42B238F89A7BC
+CRC32: DC311848
+
+File: YDArkDrv.sys
+Size: 5165568 bytes
+File Version: 1.0.1.3
+Modified: 2020年3月2日, 14:07:22
+MD5: 5D5A470181F32ED54214035D33A876C2
+SHA1: 64FC6BB047A76DC2CE0DBF75912B7FE87F2A38D8
+CRC32: 4B55F279
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11855360 bytes
+File Version: 1.0.1.4
+Modified: 2020年3月12日, 16:34:06
+MD5: 551C5ADDCA6E7F7D8F04862BAF46A162
+SHA1: 4DC9AD3EAED97020EE282C8269178371CBD3A67A
+CRC32: 822ADADE
+
+File: YDArkDrv.sys
+Size: 5155840 bytes
+File Version: 1.0.1.4
+Modified: 2020年3月12日, 16:33:52
+MD5: 603BDBB9A26C03E123CE8519898838C3
+SHA1: CAD5ACB199BAC775011EE8BD1B3011858293635F
+CRC32: A47E6640
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11848704 bytes
+File Version: 1.0.1.5
+Modified: 2020年4月3日, 16:59:06
+MD5: 47EE563CDE1157427FCDF6ADE51F08FF
+SHA1: 9EFD094E671C452160717642318AD30731991754
+CRC32: C850A584
+
+File: YDArkDrv.sys
+Size: 5295104 bytes
+File Version: 1.0.1.5
+Modified: 2020年4月4日, 19:46:48
+MD5: 8E356F9B814CECDBAE7EE26711F814CE
+SHA1: 9A8C369F2DF24F69F88F342D6E517B5742F0D60B
+CRC32: F74D619E
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11875328 bytes
+File Version: 1.0.1.6
+Modified: 2020年4月30日, 11:14:42
+MD5: D39F4D51BD0DEEB841F9A67B87C3C80C
+SHA1: C113C49A3DA46457A2392D20655EFD33B6202D1D
+CRC32: 3ED99558
+
+File: YDArkDrv.sys
+Size: 5392896 bytes
+File Version: 1.0.1.6
+Modified: 2020年4月28日, 11:14:06
+MD5: FF39EEEE347B9B85C5AC1364EC6DBABB
+SHA1: A51EF222509D67EB5D648869B0E11634AC78C0B3
+CRC32: F102CD44
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11439616 bytes
+File Version: 1.0.1.7
+Modified: 2020年5月7日, 9:19:14
+MD5: 6FC69546A82CEF56AC679982ACE3FC02
+SHA1: D316B2D474A1C808B9A8F55E745612CCF851B2E4
+CRC32: D3F01ED3
+
+File: YDArkDrv.sys
+Size: 5366272 bytes
+File Version: 1.0.1.7
+Modified: 2020年5月7日, 9:18:34
+MD5: 985B68BBD6BCBC2FBE7C067D6D366E00
+SHA1: DBD1A94828D2EF32535361E4887A6CCA47A1E1A4
+CRC32: 2506CBB6
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11428352 bytes
+File Version: 1.0.1.8
+Modified: 2020年5月20日, 11:42:06
+MD5: 5954E3D108525FEE5894E33CCEA1E935
+SHA1: 8AE84774646FD15183F9193275662C868B77C64B
+CRC32: 39BE8B74
+
+File: YDArkDrv.sys
+Size: 5302272 bytes
+File Version: 1.0.1.8
+Modified: 2020年5月20日, 11:39:10
+MD5: 4021B35FC1AA30A13AAED52170F68171
+SHA1: CEA0C4E48D819372858C0E009AA77608D36AD3B8
+CRC32: 7B9BA334
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11468800 bytes
+File Version: 1.0.1.9
+Modified: 2020年6月5日, 16:56:50
+MD5: 9CF1CB24664D554AAFF29F91CAC40058
+SHA1: A231C1253EEAF9A5841792299A7A1C3EA3115C89
+CRC32: B94AB0F0
+
+File: YDArkDrv.sys
+Size: 5533696 bytes
+File Version: 1.0.1.9
+Modified: 2020年6月5日, 16:56:06
+MD5: 41176FEDFB058000D255D78CF2D4C1AB
+SHA1: 94BB2405039CF57EBE14C698D94B9A1563A5B22A
+CRC32: B5B5AE17
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11491328 bytes
+File Version: 1.0.1.10
+Modified: 2020年7月16日, 14:33:36
+MD5: B3BE9615976C502B15C1DFB8D54A5148
+SHA1: 8F57B09415FAAD6E3205C69954CABED8C6A23639
+CRC32: C070B46D
+
+File: YDArkDrv.sys
+Size: 5495296 bytes
+File Version: 1.0.1.10
+Modified: 2020年7月16日, 14:33:12
+MD5: 8BA1D7615589AC3E6E6EB0A134B57AE3
+SHA1: 19EAF290F68B66BB9A21D35FCE4710BDA89A4F4E
+CRC32: 9EF1AB84
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11487232 bytes
+File Version: 1.0.1.11
+Modified: 2020年11月2日, 18:30:00
+MD5: 81EC1351ADDCC32F1022271B42CFB317
+SHA1: D1B582F8D25DE0784FACB382F23B94E7A18FF53B
+CRC32: 6C0B398C
+
+File: YDArkDrv.sys
+Size: 5502976 bytes
+File Version: 1.0.1.11
+Modified: 2020年11月2日, 18:28:40
+MD5: 8EF08B9FBE813FF0AB51061D9436C488
+SHA1: 939397649D44D07104DBEC7CFFE42DBC5BAAAE48
+CRC32: D89012B8
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 11479040 bytes
+File Version: 1.0.2.1
+Modified: 2021年1月15日, 10:15:14
+MD5: 9FD28D2318F66E4FE37A9A5BC1637928
+SHA1: CFF58AA0CB39CA0B2A4B82D6BED149E453405629
+CRC32: ACB62238
+
+File: YDArkDrv.sys
+Size: 5443072 bytes
+File Version: 1.0.2.1
+Modified: 2021年1月15日, 10:15:52
+MD5: 21A4F49C774797CEC8A838BB15C01AF8
+SHA1: ECBAAB0D1886AC0E70E75564E9901A5E4731108B
+CRC32: 71D9D22C
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10500096 bytes
+File Version: 1.0.2.2
+Modified: 2021年3月26日, 14:44:48
+MD5: 9254B5E792AF1A459B2AF8D67C4FFADA
+SHA1: B4D50DB2E0DC04C3D91AA74BE0F188C1DA50165E
+CRC32: 916B24C0
+
+File: YDArkDrv.sys
+Size: 5747712 bytes
+File Version: 1.0.2.2
+Modified: 2021年3月26日, 14:44:28
+MD5: 9CBE8A12DEF8BD4626A7FA55C53990DA
+SHA1: 891CF4F144532DCD35DF91FD0A2919342675EE71
+CRC32: 0E57383D
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 10421760 bytes
+File Version: 1.0.2.3
+Modified: 2021年6月4日, 14:41:56
+MD5: BB7D65ADA49F52735DA6BE28A7CCC004
+SHA1: 8AAF5A98EBADA4E5EDDC5D4BA2E75DE8B392C261
+CRC32: AA3D5D7C
+
+File: YDArkDrv.sys
+Size: 9013217 bytes
+File Version: 1.0.2.3
+Modified: 2021年6月4日, 15:15:38
+MD5: 9B73163E64A490A442B6B486110EABDA
+SHA1: 630E47CB9C12D85DFDCA7A6368C2716D24F66F9B
+CRC32: DE0E7872
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+YDArk.exe
+Size: 7086096 bytes
+File Version: 1.0.2.4
+Modified: 2021年9月14日, 18:42:12
+MD5: 8F39E64165D35E4A18CFE883BAF2F7CD
+SHA1: B2459D2B961DA065E5F94F5F352977C52BF4518E
+CRC32: 2DA52AC9
+
+File: YDArkDrv.sys
+Size: 9086964 bytes
+File Version: 1.0.2.4
+Modified: 2021年9月14日, 17:34:34
+MD5: 6B9A7DB21A5AB8BD190CE38AC0DAB73D
+SHA1: 0C93D1D585A188687FBA6751622596DE8E1B141E
+CRC32: 9F4B2CB7
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 7021072 bytes
+File Version: 1.0.2.4
+Modified: 2021年12月13日, 14:55:58
+MD5: 03B6DEDD09F336A657FBD0C4C9771CAF
+SHA1: 83C9E8A03118B9571155EE87E2BF4CA2FA16FC25
+CRC32: B5483064
+
+File: YDArkDrv.sys
+Size: 9228994 bytes
+File Version: 1.0.2.5
+Modified: 2021年12月13日, 14:55:54
+MD5: 27BB07354845EBC9DD92FE374D4121E3
+SHA1: 1F08DA888265E8BD2E161B0B6A4B4BDB7FF31182
+CRC32: E4479974
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+File: YDArk.exe
+Size: 6851088 bytes
+File Version: 1.0.3.1
+Modified: 2023年1月10日, 17:35:58
+MD5: 686C584B94EDDBB9B6B1BB6FB80F91E9
+SHA1: 8D62E11664D017346B41E0D4972BEACA5DBCE794
+CRC32: 12775B51
+
+File: YDArkDrv.sys
+Size: 8338432 bytes
+File Version: 1.0.3.1
+Modified: 2023年1月10日, 17:17:16
+MD5: BB21B87726D0490558A76299C49E6B1D
+SHA1: BDE2F3EE021E1916F7816AFD19673481DE85061D
+CRC32: 6DD05DD5
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
