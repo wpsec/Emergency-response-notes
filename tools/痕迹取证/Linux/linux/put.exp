@@ -1,0 +1,12 @@
+#!/usr/bin/expect
+set ipadd [lindex $argv 0]
+set port [lindex $argv 1]
+set username [lindex $argv 2]
+set userpasswd [lindex $argv 3]
+set timeout 10
+spawn scp -P $port linuxcheck.sh checkrules/dangerstcpports.dat checkrules/dangersudpports.dat $username@$ipadd:/tmp/
+expect {
+  "yes/no" {send "yes\r";exp_continue}
+  "password" {send "$userpasswd\r"}
+}
+expect eof
